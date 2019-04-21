@@ -21,11 +21,11 @@ while True:
         print(win)
         computers_lives -= 1
         
-    if rps == "Ножницы" and computer == "Камень":
+    if rps == "Ножницы" and computer == "Бумага":
         print("Компьютер выбрал",computer)
         print(win)
         computers_lives -=1
-    if rps == "Ножницы" and computer == "Бумага":
+    if rps == "Ножницы" and computer == "Камень":
         print("Компьютер выбрал",computer)
         print(loose)
         жизни -= 1
