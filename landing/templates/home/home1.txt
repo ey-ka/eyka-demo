@@ -1,0 +1,28 @@
+﻿
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body bgcolor="#20B2AA">
+<td>
+<div style="margin-top:12%;">
+<h1 align="center">
+
+<p style="font-style:italic">Ленинградские сказки</p>
+ <p style="font-style:italic">и истории</p>
+ <p style="font-style:italic">от Екатерины</p>
+<div>
+<form action="" method="post">
+ {{ form }} 
+<div>
+<button type="submit">отправить</button>
+</div>
+</div>
+
+</h1>
+</div>
+</td>
+</body>
+</html>
